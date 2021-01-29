@@ -7,9 +7,7 @@ namespace ConsoleApp1
 		static void Main(string[] args)
 		{
 			Console.WriteLine("I will push into master!");
-			//please make fetch and merge
-			//temp change
-			//ny ändring
+			//Vi vill Pusha men måste först pulla
 		}
 	}
 }
